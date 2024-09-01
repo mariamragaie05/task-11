@@ -1,0 +1,119 @@
+.-h1 {
+  height: 10px !important;
+}
+
+.h-2 {
+  height: 20px !important;
+}
+
+.h-3 {
+  height: 30px !important;
+}
+
+.h-4 {
+  height: 40px !important;
+}
+
+.h-5 {
+  height: 50px !important;
+}
+
+.h-6 {
+  height: 60px !important;
+}
+
+.w-1 {
+  width: 10px !important;
+}
+
+.w-2 {
+  width: 20px !important;
+}
+
+.w-3 {
+  width: 30px !important;
+}
+
+.w-4 {
+  width: 40px !important;
+}
+
+.w-5 {
+  width: 50px !important;
+}
+
+.w-6 {
+  width: 60px !important;
+}
+
+.m-0 {
+  margin: 0 !important;
+}
+
+.m-1 {
+  margin: 5px !important;
+}
+
+.m-2 {
+  margin: 10px !important;
+}
+
+.m-3 {
+  margin: 15px !important;
+}
+
+.m-4 {
+  margin: 20px !important;
+}
+
+.m-5 {
+  margin: 25px !important;
+}
+
+.p-0 {
+  padding: 0 !important;
+}
+
+.p-1 {
+  padding: 5px !important;
+}
+
+.p-2 {
+  padding: 10px !important;
+}
+
+.p-3 {
+  padding: 15px !important;
+}
+
+.p-4 {
+  padding: 20px !important;
+}
+
+.p-5 {
+  padding: 25px !important;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  color: #000000;
+  background-color: #ffffff;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #3498db;
+  font-weight: bold;
+}/*# sourceMappingURL=index.css.map */

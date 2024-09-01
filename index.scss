@@ -1,0 +1,26 @@
+@import "colors";
+@import "fontsizes";
+@import "height";
+@import "width";
+@import "margins";
+@import "padding";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, sans-serif;
+  color: $black-color;
+  background-color: $white-color;
+  @include font-size($font-size-md);
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $blue-color;
+  font-weight: bold;
+}
